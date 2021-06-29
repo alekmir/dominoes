@@ -1,2 +1,2 @@
 # Domino the game
-Hyperskill.org educational project during Python developer course.
+One of the Hyperskill Python Developer course projects (dificult: easy)
